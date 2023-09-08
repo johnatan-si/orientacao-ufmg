@@ -1,5 +1,4 @@
-
-Apostila: Níveis de Pós-Graduação e Iniciação Científica
+Níveis de Pós-Graduação e Iniciação Científica
 Olá, futuro pesquisador! Se você está em iniciação científica ou simplesmente quer entender um pouco mais sobre os caminhos da pesquisa e formação acadêmica, essa apostila é para você.
 
 Sumário:
